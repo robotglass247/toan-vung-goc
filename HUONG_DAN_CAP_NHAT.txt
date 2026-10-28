@@ -1,0 +1,14 @@
+TOÁN VỮNG GỐC V4.5 – TRANG CHỦ GITHUB PAGES
+
+Repository: https://github.com/robotglass247/toan-vung-goc
+Link trang chủ: https://robotglass247.github.io/toan-vung-goc/
+
+Cách cập nhật:
+1. Giữ nguyên hai file icon-192.png và icon-512.png đã có trên GitHub.
+2. Thay nội dung ba file index.html, manifest.webmanifest, sw.js bằng ba file tương ứng trong bộ này.
+3. Trên GitHub, mở lần lượt các file > biểu tượng bút chì (Edit) > dán nội dung mới > Commit changes. Nếu GitHub hỗ trợ ghi đè khi upload có thể upload tệp mới thay thế.
+4. Kiểm tra Actions/Pages xanh rồi mở lại trang, Ctrl+F5 nếu phiên bản cũ đang cache.
+5. Các nút V3/V4/V4.2/V4.3 mở Google Apps Script trong tab khác để không ảnh hưởng quy trình chấm và lưu.
+
+Đã có: banner, menu, bài test, học bù, luyện tập, kết quả (liên kết), lộ trình và góc phụ huynh.
+Chưa có: API kết quả trực tiếp trong cổng, test chủ đề mới, thống kê tự động trên trang chủ. Không có điểm/tiến độ giả và không đưa dữ liệu học sinh vào GitHub công khai.
